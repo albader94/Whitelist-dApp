@@ -1,6 +1,6 @@
 # Whitelist dApp
 
-NFT collection called Crypto Devs that gives early supporters access to a whitelist.
+NFT collection called that gives early supporters access to a whitelist.
 Whitelist is given to the first 10 users who want to get in.
 
 Next.js & React used for the web postion.
