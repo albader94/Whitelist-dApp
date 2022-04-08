@@ -1,13 +1,11 @@
 # Whitelist dApp
 
-NFT collection called Crypto Devs that gives early supporters access to a white list.
-White list is given to the first 10 users who want to get in.
+NFT collection called Crypto Devs that gives early supporters access to a whitelist.
+Whitelist is given to the first 10 users who want to get in.
 
-React.js used for the web postion.
-Solidity used for smart contract.
-<!--
-Tested, compiled and deployed locally using Hardhat and OpenZeppelin
+Next.js & React used for the web postion.
+Solidity used for smart contract. Tested, compiled and deployed locally using Hardhat
 
-Deployed on Rinkeby test network. Contract Address: 
+Deployed on Rinkeby test network. Contract Address: 0x75CFe4edD87dDB20B5C90085b7234e0357B7b046
 
 To view contract visit: -->
