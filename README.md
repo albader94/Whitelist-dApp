@@ -1,8 +1,11 @@
 # Whitelist dApp
 
-<!-- Smart contract written in solidity that deployes an NFT to Rinkeby test network.
-In addition a deploy.js script is written that deploys the smart contract to the blockchain.
+NFT collection called Crypto Devs that gives early supporters access to a white list.
+White list is given to the first 10 users who want to get in.
 
+React.js used for the web postion.
+Solidity used for smart contract.
+<!--
 Tested, compiled and deployed locally using Hardhat and OpenZeppelin
 
 Deployed on Rinkeby test network. Contract Address: 
